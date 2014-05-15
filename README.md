@@ -1,3 +1,3 @@
-rubby-scripts
+Ruby-scripts
 =============
 Collection of Ruby script.
